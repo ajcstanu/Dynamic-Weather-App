@@ -1,4 +1,5 @@
-#Dynamic Weather App
+#**Dynamic Weather App**
+
 This is a modern, interactive weather application that displays the current temperature and conditions for any city you enter, featuring dynamic backgrounds that change based on the weather.
 
 **Features**
